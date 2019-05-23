@@ -9,7 +9,7 @@ I've forked Will's repo and made the following adjustments:
   
   
   This was my added pofile picture:
-![GitHub Logo](/assets/img/IMG_9945.jpg.png)
+![GitHub Logo](/assets/img/IMG_9945.jpg)
 
 
 
